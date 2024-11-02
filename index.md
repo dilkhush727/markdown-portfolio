@@ -36,4 +36,4 @@ My name is Dilkhush Yadav. I'm a student at Humber College (North Campus). I hav
 Visit my [Projects Page](projects.md) to see my work!
 
 ## Contact
-[Get in touch](contactme.md)
+[Get in Touch](contactme.md)
